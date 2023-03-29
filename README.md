@@ -1,6 +1,6 @@
 # PG&E Is An Incompetent, Criminal Organization
 
-You should probably know what they're doing in your neighborhood but Uniden only gives you one frequency to monitor in their factory database. In reality, the village burners use hundreds and hundreds of different frequencies within the following ranges in 12.5KHz steps:
+You should probably know what they're doing in your neighborhood but Uniden only gives you one frequency to monitor in their factory database. In reality, the village burners jump around between hundreds and hundreds of different frequencies within the following ranges:
 
 ```
 451.000000 - 453.012500 MHz
@@ -11,6 +11,6 @@ You should probably know what they're doing in your neighborhood but Uniden only
 
 While Uniden doesn't support MPT-1327, the hang time on their repeaters is usually long enough that you can easily follow a conversation by just monitoring the analog channels directly. These HPE files make that possible.
 
-In my neck of the woods I've only encountered actual traffic bearing CTCSS tones of 196.6Hz, but in theory, they sometimes switch over to 199.5Hz. Both sets are here for completeness.
+In my neck of the woods, I've only encountered actual traffic bearing CTCSS tones of 196.6Hz but, in theory, they sometimes switch over to 199.5Hz. Both sets are here for completeness.
 
 Enjoy.
