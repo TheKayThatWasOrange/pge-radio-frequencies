@@ -1,6 +1,6 @@
 # PG&E Is An Incompetent, Criminal Organization
 
-You should probably know what they're doing in your neighborhood but Uniden only gives you one frequency to monitor in their database. In reality, they use hundreds and hundreds of different frequencies within the following ranges in 12.5KHz steps:
+You should probably know what they're doing in your neighborhood but Uniden only gives you one frequency to monitor in their factory database. In reality, the village burners use hundreds and hundreds of different frequencies within the following ranges in 12.5KHz steps:
 
 ```
 451.000000 - 453.012500 MHz
