@@ -11,4 +11,6 @@ You should probably know what they're doing in your neighborhood but Uniden only
 
 While Uniden doesn't support MPT-1327, the hang time on their repeaters is usually long enough that you can easily follow a conversation by just monitoring the analog channels directly. These files make that possible.
 
+In my neck of the woods I've only encountered actual traffic bearing CTCSS tones of 196.6Hz, but in theory, they sometimes switch over to 199.5Hz. Both sets are here for completeness.
+
 Enjoy.
