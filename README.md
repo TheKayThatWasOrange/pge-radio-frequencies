@@ -9,7 +9,7 @@ You should probably know what they're doing in your neighborhood but Uniden only
 463.200000 - 465.012500 MHz
 ```
 
-While Uniden doesn't support MPT-1327, the hang time on their repeaters is usually long enough that you can easily follow a conversation by just monitoring the analog channels directly. These HPE files make that possible.
+While Uniden doesn't support MPT-1327, the hang time on their repeaters is usually long enough that you can easily follow a conversation by just monitoring the analog channels directly. These HPE files make that possible, but be aware that you will have to ride the knob during scanning to get away from the round-robined control channel shrieking.
 
 In my neck of the woods, I've only encountered actual traffic bearing CTCSS tones of 196.6Hz but, in theory, they sometimes switch over to 199.5Hz. Both sets are here for completeness.
 
